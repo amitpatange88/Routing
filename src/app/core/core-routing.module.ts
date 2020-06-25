@@ -19,7 +19,7 @@ const coreRoutes: Routes = [
             {
                 path: 'Sidebar',
                 component: SidebarComponent,
-                //outlet: 'coresidebar'
+                //outlet: 'coresidebar'//define router outlet to use. explore on this area
             }
         ]
     }
